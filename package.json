@@ -1,0 +1,20 @@
+{
+  "name": "bigawebdesign.com",
+  "version": "1.0.0",
+  "description": "bwd",
+  "repository": "",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bwd",
+    "zx",
+    "wx",
+    "biga",
+    "web",
+    "design"
+  ],
+  "author": "ZX",
+  "license": "MIT"
+}
